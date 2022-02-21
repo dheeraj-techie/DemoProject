@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Qualys
+          Learn Qualys by doing things
         </a>
       </header>
     </div>
